@@ -1,0 +1,17 @@
+.card {
+  margin: 1rem auto;
+  border-radius: 6px;
+  opacity: 85%;
+  padding: 1rem;
+  width: 90%;
+  max-width: 50rem;
+  max-height: 0%;
+}
+
+.media{
+  margin:auto;
+  border-radius: 10px;
+  opacity: 80%;
+  width: 100%;
+  max-height: 0%;
+}
