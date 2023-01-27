@@ -39,7 +39,7 @@ const Rundown = () => {
               </tr>
               <tr>
                 <td>7:00pm - 7:25pm</td>
-                <td>Opening, Johnson and Renee speech, lion dance, Red Pocket</td>
+                <td>Opening, Johnson and Renee speech, lion dance, Red Pockets</td>
                 <td>Michael,Jackie, Vitus</td>
                 <td>PPT for presentation / music for Red pocket </td>
               </tr>
@@ -82,7 +82,7 @@ const Rundown = () => {
               <tr>
                 <td>8:45pm - 9:00pm</td>
                 <td>Dance performance</td>
-                <td>3 professionsal dancers 1. Angels 2. bellydance 3. Samba</td>
+                <td>3 professional dancers 1. Angels 2. bellydance 3. Samba</td>
                 <td>Music </td>
               </tr>
               <tr>
