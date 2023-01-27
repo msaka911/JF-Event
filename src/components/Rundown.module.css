@@ -35,3 +35,12 @@
     }
   }
 
+  .subtitle{
+    display: flex;
+    flex-direction: column;
+    margin-top: 0.5rem;
+    white-space: nowrap;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: black;
+  }

@@ -15,6 +15,11 @@ const Rundown = () => {
         <img src={logo} ></img>
         <h1>JF Insurance Annual Party Rundown</h1>
       </div>
+
+      <div className={classes.subtitle}>
+        <label>*The grand lucky draw will start at 9:15pm including all guests.</label>
+        <label>*The grand prize will be one iphone 14 and one ipad</label>
+      </div>
         <Table striped bordered hover variant="dark" >
             <thead>
               <tr>
