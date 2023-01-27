@@ -3,7 +3,7 @@ import Table from "react-bootstrap/Table";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import classes from "./Rundown.module.css"
 import logo from  "../assets/logo.png"
-
+import Menu from "./Menu";
 
 import { isMobile } from 'react-device-detect';
 
@@ -114,6 +114,7 @@ const Rundown = () => {
               </tr>
             </tbody>
           </Table>
+          <Menu></Menu>
         </form>
         </Card>
   );

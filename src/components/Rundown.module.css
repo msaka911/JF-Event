@@ -20,11 +20,10 @@
 }
 
 
-
 .form {
     position:relative;
     animation: slide 1.5s forwards;
-    top:-130px;
+    top:-250px;
   }
   
   @keyframes slide {
